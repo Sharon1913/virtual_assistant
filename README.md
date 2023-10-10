@@ -9,4 +9,4 @@ Libraries and Frameworks:
 • webbrowser
 • requests
 • pytesseract
-•
+• smtplib
