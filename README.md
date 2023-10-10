@@ -7,6 +7,6 @@ Libraries and Frameworks:
 •wikipedia
 •webbrowser
 •requests
-•
+•pytesseract
 External APIs:
 •National Weather Service API
